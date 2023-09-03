@@ -1,3 +1,9 @@
+PasswordManager.sln: Visual Studio solution file.
+PasswordManagerApp: Windows Forms application project.
+MainForm.cs: The main form for the application.
+PasswordEntry.cs: A class for representing password entries.
+PasswordManager.cs: A class for managing password entries.
+
 Usage:
 
 Build and run the application using Visual Studio or any C# development environment.
